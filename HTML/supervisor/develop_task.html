@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    div{
+        padding: 10px 0 0 50px;
+    }
+    h3{
+        margin: 50px 0 0 100px;
+        display: inline-block;
+        word-spacing: 5px;
+        font-family: PingFangSC-Regular, Verdana, Arial, 微软雅黑, 宋体;
+        color: crimson;
+    }
+    input{
+        margin-left: 15px;
+    }
+    select,textarea{
+        margin-left: 15px;
+    }
+    form{
+        color: chocolate;
+    }
+    #down input{
+        margin-left: 75px;
+        padding: 2px;
+    }
+    span{
+        color: red;
+    }
+</style>
+<body>
+    <h3>
+        输入新任务信息
+    </h3>
+    <div>
+        <form>
+            任务名称：<input type="text"><br><br>
+            开始时间：<input type="month"><br><br>
+            结束时间：<input type="month"><br><br>
+            实施人：  &#160;&#160;&#160;<select>
+                    <option>请选择</option>
+                    <option>qwe</option>
+                    </select><br><br>
+            任务描述：<textarea></textarea><br><br>
+            任务状态：<span>未实施</span>
+        </form>
+    </div>
+    <div id="down">
+        <input type="button" value="提交" name="submit">
+        <input type="button" value="重置" name="reset">
+    </div>
+</body>
+</html>

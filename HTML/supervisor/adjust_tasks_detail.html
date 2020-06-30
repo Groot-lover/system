@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    div{
+        padding: 10px 0 0 50px;
+    }
+    h3{
+        margin: 50px 0 0 100px;
+        display: inline-block;
+        word-spacing: 5px;
+        font-family: PingFangSC-Regular, Verdana, Arial, 微软雅黑, 宋体;
+        color: crimson;
+    }
+    input{
+        margin-left: 15px;
+    }
+    select,textarea{
+        margin-left: 15px;
+    }
+    form{
+        color: chocolate;
+    }
+    #down input{
+        margin-left: 75px;
+        padding: 2px;
+    }
+    span{
+        color: red;
+    }
+</style>
+<body>
+<h3>
+    调整任务信息
+</h3>
+<div>
+    <form>
+        任务名称：<input type="text" value="开发学籍管理系统"><br><br>
+        开始时间：<input type="text" value="2020-5-28"><br><br>
+        结束时间：<input type="text" value="2020-6-28"><br><br>
+        实施人：  &#160;&#160;&#160;<select>
+                                        <option>请选择</option>
+                                        <option>qwe</option>
+                                    </select><br><br>
+        任务描述：<textarea>开发一个学籍管理系统</textarea><br><br>
+        任务状态：<span>未实施</span>
+    </form>
+</div>
+<div id="down">
+    <input type="submit" value="提交" name="submit">
+    <input type="reset" value="重置" name="reset">
+</div>
+</body>
+</html>

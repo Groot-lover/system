@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    table{
+        border: 1px solid #8b8b90;
+        color: rgba(211, 255, 87, 0.82);
+        text-align: center;
+    }
+    td{
+        border: 1px solid #8b8b90;
+        padding: 5px;
+    }
+    div{
+        padding: 10px 0 0 50px;
+    }
+    h3{
+        margin: 50px 0 10px 250px;
+        display: inline-block;
+        word-spacing: 5px;
+        font-family: PingFangSC-Regular, Verdana, Arial, 微软雅黑, 宋体;
+        color: crimson;
+    }
+    h2{
+        display: inline-block;
+    }
+    a{
+        color: #000;
+        text-decoration: none;
+    }
+    button{
+        float: right;
+        margin: 3px 5px;
+        padding: 2px;
+    }
+</style>
+<body>
+<h3>
+    任务详细信息
+</h3>
+<div>
+    <table>
+        <tr>
+            <td>任务名称</td>
+            <td colspan="5">开发一个任务管理系统</td>
+        </tr>
+        <tr>
+            <td>任务描述</td>
+            <td colspan="5">开发一个任务管理系统</td>
+        </tr>
+        <tr>
+            <td>开始时间</td>
+            <td colspan="2">2020-5-28</td>
+            <td>结束时间</td>
+            <td colspan="2">2020-6-28</td>
+        </tr>
+        <tr>
+            <td>实施人</td>
+            <td colspan="2">qwe</td>
+            <td>任务状态</td>
+            <td colspan="2">实施中</td>
+        </tr>
+        <tr>
+            <td colspan="6">
+                <h2>计划信息</h2>
+                <button>删除</button>
+                <button><a href="new_plan.html">新建</a></button>
+            </td>
+        </tr>
+        <tr>
+            <td>计划名称</td>
+            <td>完成状态</td>
+            <td>是否反馈</td>
+            <td>开始时间</td>
+            <td>结束时间</td>
+            <td><input type="checkbox">全选</td>
+        </tr>
+        <tr>
+            <td>需求分析</td>
+            <td>未完成</td>
+            <td>未反馈</td>
+            <td>2020-5-28</td>
+            <td>2020-6-1</td>
+            <td><input type="checkbox"></td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

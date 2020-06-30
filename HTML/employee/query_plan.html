@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    table{
+        border: 1px solid #8b8b90;
+        color: black;
+        text-align: center;
+    }
+    td{
+        border: 1px solid #8b8b90;
+        padding: 5px;
+    }
+    div{
+        padding: 10px 0 0 50px;
+    }
+    h3{
+        margin: 50px 0 10px 150px;
+        display: inline-block;
+        word-spacing: 5px;
+        font-family: PingFangSC-Regular, Verdana, Arial, 微软雅黑, 宋体;
+        color: crimson;
+    }
+    button{
+        margin-left: 175px ;
+        padding: 2px;
+    }span{
+         color: #b00000;
+     }
+    #down table{
+        color: rgba(0, 14, 255, 0.84);
+    }
+</style>
+<body>
+<h3>
+    查询条件
+</h3>
+<button>查询</button>
+<div>
+    <form>
+        <table>
+            <tr>
+                <td>计划名称</td>
+                <td colspan="2"><input type="text"></td>
+            </tr>
+            <tr>
+                <td>所属任务</td>
+                <td colspan="2">
+                    <select>
+                        <option>请选择</option>
+                        <option>开发学籍管理系统</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>开始时间</td>
+                <td>从<input type="month"></td>
+                <td>到<input type="month"></td>
+            </tr>
+            <tr>
+                <td>结束时间</td>
+                <td>从<input type="month"></td>
+                <td>到<input type="month"></td>
+            </tr>
+            <tr>
+                <td>是否反馈</td>
+                <td colspan="2">
+                    <select>
+                        <option>已反馈</option>
+                        <option>未反馈</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+<h3>
+    计划信息
+</h3>
+<div id="down">
+    <table>
+        <tr>
+            <td>计划名称</td>
+            <td>所属任务</td>
+            <td>开始时间</td>
+            <td>结束时间</td>
+            <td>计划状态</td>
+            <td>是否反馈</td>
+        </tr>
+        <tr>
+            <td>案例分析</td>
+            <td>开发学籍管理系统</td>
+            <td>2020-5-28</td>
+            <td>2020-6-15</td>
+            <td>未实施</td>
+            <td>未反馈</td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

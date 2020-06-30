@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/system"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.30" scope="PROVIDED"/>
+	<lib name="commons-beanutils-1.8.0" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.0.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/druid-1.0.9.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/junit-4.7.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.15.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-5.1.10.RELEASE.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-core-5.1.10.RELEASE.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-5.2.5.RELEASE.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-5.1.10.RELEASE.jar!/"/>
+	</lib>
+	<lib name="jstl" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/standard.jar!/"/>
+	</lib>
+	<levels>
+		<level name="Tomcat 9.0.30" value="application_server_libraries"/>
+	</levels>
+</component>

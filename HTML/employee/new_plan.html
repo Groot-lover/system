@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    div{
+        padding: 10px 0 0 50px;
+    }
+    h3{
+        margin: 50px 0 0 100px;
+        display: inline-block;
+        word-spacing: 5px;
+        font-family: PingFangSC-Regular, Verdana, Arial, 微软雅黑, 宋体;
+        color: rgba(194, 20, 51, 0.95);
+    }
+    input{
+        margin-left: 15px;
+    }
+    select,textarea{
+        margin-left: 15px;
+    }
+    form{
+        color: black;
+    }
+    #down input{
+        margin-left: 75px;
+        padding: 2px;
+    }span{
+        color: #b00000;
+         }
+</style>
+<body>
+<h3>
+    输入新计划信息
+</h3>
+<div>
+    <form>
+        计划名称：<input type="text"><br><br>
+        计划描述：<textarea></textarea><br><br>
+        开始时间：<input type="month"><br><br>
+        结束时间：<input type="month"><br><br>
+        计划状态：<span>未完成</span><br><br>
+        是否反馈：<span>未反馈</span>
+    </form>
+
+</div>
+<div id="down">
+    <input type="submit" value="提交">
+    <input type="reset" value="重置">
+</div>
+</body>
+</html>

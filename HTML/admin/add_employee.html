@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    div{
+        padding: 10px 0 0 50px;
+    }
+    h3{
+        margin: 50px 0 0 100px;
+        display: inline-block;
+        word-spacing: 5px;
+        font-family: PingFangSC-Regular, Verdana, Arial, 微软雅黑, 宋体;
+        color: crimson;
+    }
+    input{
+        margin-left: 15px;
+    }
+    select,textarea{
+        margin-left: 15px;
+    }
+
+</style>
+
+<body>
+<h3>
+    员工信息添加
+</h3>
+<form>
+    <div>
+        username:<input type="text"><br><br>
+        password:<input type="password"><br><br>
+        性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别<input type="radio" name="gender" value="female">女
+              <input type="radio" name="gender" value="male">男<br><br>
+        出生日期<input type="month"><br><br>
+        入职日期<input type="month"><br><br>
+        职&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位<input type="text"><br><br>
+        学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历<select>
+                <option value="acquiescence">请选择</option>
+                <option value="">博士</option>
+                <option value="">硕士</option>
+                <option value="">学士</option>
+            </select><br><br>
+        工作经历<textarea></textarea><br><br>
+        员工工号<input type="number"><br><br>
+    </div>
+    <div>
+        <input type="button" value="提交" name="submit">
+        <input type="button" value="重置" name="reset">
+    </div>
+
+</form>
+</body>
+</html>
