@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="system:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="760bdfdf-38fc-4222-bd45-1a8ab1ca01ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/system.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/system_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/dao/impl/EmployeeDaoImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/dao/impl/EmployeeDaoImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/school.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/school.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/util/JDBCUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/util/JDBCUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/AdminFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/AdminFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/EmpFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/EmpFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/LoginFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/LoginFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/MyRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/MyRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/SuperFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/filter/SuperFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/admin/AddEmpServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/admin/AddEmpServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/employee/CreatePlanServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/employee/CreatePlanServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/employee/QuerPlanRServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/employee/QuerPlanRServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/supervisor/AddTaskServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/supervisor/AddTaskServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/supervisor/UpdateTastDServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/system_war_exploded/WEB-INF/classes/web/servlet/supervisor/UpdateTastDServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/META-INF/system.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/dao/impl/EmployeeDaoImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/dao/impl/EmployeeDaoImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/school.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/school.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/util/JDBCUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/util/JDBCUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/filter/AdminFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/filter/AdminFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/filter/EmpFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/filter/EmpFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/filter/LoginFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/filter/LoginFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/filter/MyRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/filter/MyRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/filter/SuperFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/filter/SuperFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/servlet/admin/AddEmpServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/servlet/admin/AddEmpServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/servlet/employee/CreatePlanServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/servlet/employee/CreatePlanServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/servlet/employee/QuerPlanRServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/servlet/employee/QuerPlanRServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/servlet/supervisor/AddTaskServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/servlet/supervisor/AddTaskServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/system/web/servlet/supervisor/UpdateTastDServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/system/web/servlet/supervisor/UpdateTastDServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/school.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/school.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1ct2w1lI4BHs2ZVmXt1SLSVn9dh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="F:/try" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="web.filter" />
+      <recent name="web.servlet.employee" />
+      <recent name="web.servlet.supervisor" />
+      <recent name="util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\system\web\employee" />
+      <recent name="E:\idea\system\web\supervisor" />
+      <recent name="E:\idea\system\web\admin" />
+      <recent name="E:\idea\system\web\WEB-INF\lib" />
+      <recent name="E:\idea\system\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="system:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/system" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_30_system" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="7492" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="system:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.12704918" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="760bdfdf-38fc-4222-bd45-1a8ab1ca01ae" name="Default Changelist" comment="" />
+      <created>1591333803570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591333803570</updated>
+      <workItem from="1591333807521" duration="221000" />
+      <workItem from="1591353399747" duration="7579000" />
+      <workItem from="1591425411781" duration="25173000" />
+      <workItem from="1591507995163" duration="26566000" />
+      <workItem from="1591541401206" duration="9496000" />
+      <workItem from="1591583105209" duration="22281000" />
+      <workItem from="1591617972433" duration="11244000" />
+      <workItem from="1591661691169" duration="1599000" />
+      <workItem from="1591664592555" duration="31015000" />
+      <workItem from="1591755685876" duration="4228000" />
+      <workItem from="1591936068625" duration="1100000" />
+      <workItem from="1592029646290" duration="191000" />
+      <workItem from="1592113701416" duration="531000" />
+      <workItem from="1592114260878" duration="16000" />
+      <workItem from="1592120052688" duration="230000" />
+      <workItem from="1592187016731" duration="7473000" />
+      <workItem from="1592300229090" duration="5945000" />
+      <workItem from="1592377574935" duration="2600000" />
+      <workItem from="1592453881907" duration="2864000" />
+      <workItem from="1592481781467" duration="1274000" />
+      <workItem from="1592486045658" duration="535000" />
+      <workItem from="1592551827229" duration="2840000" />
+      <workItem from="1592650353189" duration="999000" />
+      <workItem from="1592653890753" duration="603000" />
+      <workItem from="1592746003317" duration="714000" />
+      <workItem from="1592893003783" duration="1197000" />
+      <workItem from="1592963924543" duration="110000" />
+      <workItem from="1593078659104" duration="599000" />
+      <workItem from="1593434196765" duration="2078000" />
+      <workItem from="1593505831737" duration="999000" />
+      <workItem from="1593508908918" duration="57000" />
+      <workItem from="1601023275224" duration="2143000" />
+      <workItem from="1601033556156" duration="697000" />
+      <workItem from="1606473006043" duration="990000" />
+      <workItem from="1607236914966" duration="2887000" />
+      <workItem from="1608533962919" duration="4207000" />
+      <workItem from="1608626347057" duration="4303000" />
+      <workItem from="1608634005162" duration="1160000" />
+      <workItem from="1609300827896" duration="594000" />
+      <workItem from="1609332256275" duration="257000" />
+      <workItem from="1609332580318" duration="1225000" />
+    </task>
+    <task id="LOCAL-00001" summary="add system">
+      <created>1593506346668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593506346669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add system" />
+    <option name="LAST_COMMIT_MESSAGE" value="add system" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="331" y="145" key="#Tomcat_Server" timestamp="1601023795141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="331" y="145" key="#Tomcat_Server/0.0.1536.864@0.0.1536.864" timestamp="1601023795141" />
+    <state x="193" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606473889341">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="193" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1606473889341" />
+    <state x="620" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1607236928426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="620" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1607236928426" />
+    <state x="543" y="176" key="FileChooserDialogImpl" timestamp="1601023790247">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="543" y="176" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601023790247" />
+    <state width="1277" height="247" key="GridCell.Tab.0.bottom" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.0.center" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.0.left" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.0.right" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.1.bottom" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.1.center" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.1.left" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.1.right" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.2.bottom" timestamp="1609332515014">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1609332515014" />
+    <state width="1277" height="247" key="GridCell.Tab.2.center" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.2.left" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state width="1277" height="247" key="GridCell.Tab.2.right" timestamp="1609332515013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1277" height="247" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1609332515013" />
+    <state x="238" y="19" key="SettingsEditor" timestamp="1601023377534">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="238" y="19" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601023377534" />
+  </component>
+</project>
